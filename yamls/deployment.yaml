@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: dotnet-app
-        image: your-dotnet-image:tag
+        image: avishaihaasz:22
         ports:
         - containerPort: 8080
